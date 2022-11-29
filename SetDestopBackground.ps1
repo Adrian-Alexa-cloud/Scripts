@@ -1,4 +1,4 @@
-$RegKeyPath = "Image URL"
+$RegKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP"
 
 # Desktop
 $DesktopPath = "DesktopImagePath"
@@ -14,7 +14,7 @@ $LockScreenPath = "LockScreenImagePath"
 $LockScreenStatus = "LockScreenImageStatus"
 $LockScreenUrl = "LockScreenImageUrl"
 
-$url = "https://vergomdm.blob.core.windows.net/images/lockscreen.jpg"
+$url = "Image URL"
 $LockScreenImageValue = "C:\MDM\lockscreen.jpg"
 
 # Start Configuration
